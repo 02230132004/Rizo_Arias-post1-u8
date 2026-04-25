@@ -1,4 +1,4 @@
-# ProfilerLab — Carreño Post1 U8
+# ProfilerLab — Rizo Post1 U8
 
 Aplicación Android desarrollada para la **Unidad 8: Rendimiento, Optimización y Experiencia Fluida** de la asignatura Aplicaciones Móviles — Ingeniería de Sistemas, Universidad de Santander (UDES) 2026.
 
